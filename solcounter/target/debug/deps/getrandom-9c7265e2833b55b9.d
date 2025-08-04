@@ -1,0 +1,11 @@
+/run/media/vansh/volume2/Rust/solcounter/target/debug/deps/getrandom-9c7265e2833b55b9.d: /home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/lib.rs /home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/error.rs /home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/util.rs /home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/error_impls.rs /home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/util_libc.rs /home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/use_file.rs /home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/linux_android.rs
+
+/run/media/vansh/volume2/Rust/solcounter/target/debug/deps/libgetrandom-9c7265e2833b55b9.rmeta: /home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/lib.rs /home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/error.rs /home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/util.rs /home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/error_impls.rs /home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/util_libc.rs /home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/use_file.rs /home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/linux_android.rs
+
+/home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/lib.rs:
+/home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/error.rs:
+/home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/util.rs:
+/home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/error_impls.rs:
+/home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/util_libc.rs:
+/home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/use_file.rs:
+/home/vansh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.1.16/src/linux_android.rs:
